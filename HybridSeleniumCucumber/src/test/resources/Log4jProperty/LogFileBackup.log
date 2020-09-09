@@ -1,0 +1,79 @@
+2020-09-08 08:53:48,012 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 08:54:07,919 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 08:54:14,791 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-08 08:54:21,439 [main] INFO com.baseclass.LibraryClass - Exiting the application and closing the browser
+2020-09-08 08:58:12,165 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 08:58:19,839 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 08:58:23,541 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-08 08:58:24,888 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-08 08:58:26,203 [main] INFO com.baseclass.LibraryClass - Username and password entered
+2020-09-08 08:58:27,253 [main] INFO com.baseclass.LibraryClass - Exiting the application and closing the browser
+2020-09-08 15:48:02,003 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 15:48:14,044 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 15:48:18,343 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-08 15:48:24,111 [main] INFO com.baseclass.LibraryClass - Exiting the application and closing the browser
+2020-09-08 15:53:22,116 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 15:53:27,464 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 15:53:31,614 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-08 15:53:36,197 [main] INFO com.baseclass.LibraryClass - Exiting the application and closing the browser
+2020-09-08 17:59:22,308 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 17:59:30,393 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 17:59:34,619 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-08 18:02:18,719 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 18:02:24,251 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 18:02:30,203 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-08 18:06:28,909 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 18:06:35,089 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 18:06:40,717 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-08 18:10:55,852 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-08 18:11:01,518 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-08 18:11:07,591 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:05:58,365 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:06:20,606 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:06:39,890 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:06:50,724 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:06:52,080 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:13:13,938 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:13:28,091 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:13:37,002 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:13:37,522 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:13:39,224 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:13:52,213 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:14:07,142 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:14:07,552 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:21:18,097 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:21:28,686 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:21:34,532 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:21:36,740 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:21:36,887 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:21:44,143 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:21:48,166 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:21:49,383 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:24:44,127 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:24:55,695 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:25:02,494 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:25:03,746 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:25:03,884 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:25:09,501 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:25:16,829 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:25:18,019 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:30:52,269 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:31:02,219 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:31:06,976 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:31:08,247 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:31:08,497 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:31:13,129 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:31:18,983 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:31:20,400 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:32:46,480 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:32:55,583 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:33:01,750 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:33:02,892 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:33:07,801 [main] INFO com.baseclass.LibraryClass - Username and password entered
+2020-09-09 09:33:09,115 [main] INFO com.baseclass.LibraryClass - Exiting the application and closing the browser
+2020-09-09 09:33:09,149 [main] INFO com.baseclass.LibraryClass - Starting with Browser Set Up
+2020-09-09 09:33:14,367 [main] INFO com.baseclass.LibraryClass - Identified the browser as chrome. Launching the browser
+2020-09-09 09:33:19,704 [main] INFO com.baseclass.LibraryClass - Launched the FreeCRM Application
+2020-09-09 09:33:20,873 [main] INFO com.baseclass.LibraryClass - Brower launch and screenshots taken
+2020-09-09 09:33:27,552 [main] INFO com.baseclass.LibraryClass - Username and password entered
+2020-09-09 09:33:29,729 [main] INFO com.baseclass.LibraryClass - Exiting the application and closing the browser
